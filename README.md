@@ -1,4 +1,4 @@
-# signature_viewer
+# Signature Viewer
 
 A new Flutter application showing how to use Custom Painter widget.
 
