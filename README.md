@@ -1,6 +1,6 @@
 # Signature Viewer
 
-A new Flutter application showing how to use Custom Painter widget.
+A simple application that takes user signature built with Flutter using CustomPainter widget.
 
 ## Getting Started
 
